@@ -1,0 +1,103 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Roboto', sans-serif;
+    background-color: #e4e4e4; 
+}
+
+.instagram-feed {
+    max-width: 6000px;
+    margin: 0 auto;
+}
+
+.instagram-feed2 {
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+
+.feed-title {
+    background-color: #fff; 
+    padding: 10px 0; 
+    text-align: center;
+}
+
+.title-bar {
+    background-color: #fff; 
+    padding: 10px 0;
+}
+
+h1 {
+    color: #000;
+    background: #fff; 
+    display: inline; 
+    padding: 10px 100px; 
+}
+
+.post {
+    background-color: #fff; 
+    padding: 20px;
+    margin: 50px 0; 
+    position: relative;
+}
+
+.post-header {
+    display: left;
+    justify-content: space-between;
+    align-items: center;
+    padding-bottom: 10px; 
+}
+
+.post-title {
+    color: #000;
+    font-size: 20px;
+    margin-left: 28px;
+}
+
+.post-title2 {
+    color: #000;
+    font-size: 15px;
+        margin-left: 28px;
+}
+
+img {
+    height: auto;
+    display: block;
+    margin: 10px 0; 
+}
+
+.full-width-image {
+    width: 100%;
+}
+
+.post-description {
+    margin-top: 0px;
+    color: #000;
+    padding-top: 10px; 
+}
+
+.bookmark-icon {
+    position: absolute;
+    right: 0;
+    margin-right: 27px;
+    margin-top: 3px;
+}
+
+.html5-icon {
+    font-size: 30px;
+    margin-right: 10px;
+    position: absolute;
+    top: 28px; 
+    left: 20px; 
+}
+
+.ellipsis-icon {
+    font-size: 25px;
+    position: absolute;
+    top: 33px; 
+    right: 30px; 
+}
